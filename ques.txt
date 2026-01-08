@@ -1,0 +1,12 @@
+• How many activities are in Ghana?
+• What is the total funding in USD for climate-related projects?
+• List activities that support Women and Girls
+• Which organizations funded projects in Nigeria?
+• What projects are marked as Executed?
+• What SDGs are most frequently addressed?
+• How much funding was provided by African Development Bank?
+• Across all Executed activities between 2023 and 2025, which countries received the highest total funding (in USD) for projects that simultaneously address Climate Action AND Gender Equality, where the primary beneficiaries include Women and Girls, and the support type includes at least one Nonfinancial Support component?
+
+Which organizations have the highest funding efficiency, defined as total USD funding per unique beneficiary group served, across all executed projects?
+
+Compare Ghana vs Nigeria on funding efficiency for Climate Action projects
